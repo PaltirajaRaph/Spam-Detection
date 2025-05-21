@@ -5,7 +5,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.8%2B-red)
 ![Transformers](https://img.shields.io/badge/Transformers-4.10%2B-yellow)
 
-A comprehensive spam message detection system utilizing state-of-the-art natural language processing techniques and deep learning models. The system can analyze and classify text from various sources including emails, SMS messages, and Telegram messages with high accuracy.
+A simple spam message detection system utilizing state-of-the-art natural language processing techniques and deep learning models. The system can analyze and classify text from various sources including emails, SMS messages, and Telegram messages with high accuracy.
 
 ## Project Overview
 
